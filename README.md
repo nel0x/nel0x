@@ -1,6 +1,6 @@
 # Hi, I'm [@nel0x](https://github.com/nel0x) 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nel0x&count_private=true&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nel0x&count_private=true&show_icons=true&theme=react)
 
 <!--
 **nel0x/nel0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
