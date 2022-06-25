@@ -1,4 +1,7 @@
 # Hi, I'm [@nel0x](https://github.com/nel0x) 👋
+<h2>
+  <a href="https://datatracker.ietf.org/doc/html/rfc2324#section-2.3.2"><code>HTTP/1.1 418 I'm a teapot</code></a>
+</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nel0x&count_private=true&show_icons=true&theme=react)
 
