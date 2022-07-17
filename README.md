@@ -6,20 +6,20 @@
 
 <h2>Tools and Languages<br/><br/>
 
-  ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37b6ff)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=37b6ff) 
-  ![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=37b6ff)
-  ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=37b6ff)
-  ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=37b6ff)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=37b6ff)
-  ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=37b6ff)
-  ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=37b6ff)
-  ![K8s](https://img.shields.io/badge/K8s-0D1117?style=for-the-badge&logo=Kubernetes&logoColor=37b6ff)
-  ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=37b6ff)
-  ![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=37b6ff)
-  ![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-0D1117?style=for-the-badge&logo=AmazonAWS&logoColor=37b6ff)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=GoogleCloud&logoColor=37b6ff)
+  <a href="https://www.cplusplus.org">![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)</a>
+  <a href="https://www.python.org">![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37b6ff)</a>
+  <a href="https://www.javascript.com">![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=37b6ff)</a> 
+  <a href="https://www.markdownguide.org">![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=37b6ff)</a>
+  <a href="https://html5.org">![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=37b6ff)</a>
+  <a href="https://www.w3.org/Style/CSS/Overview">![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=37b6ff)</a>
+  <a href="https://mariadb.org">![MariaDB](https://img.shields.io/badge/Maria%20DB-0D1117?style=for-the-badge&logo=MariaDB&logoColor=37b6ff)</a>
+  <a href="https://git-scm.com">![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=37b6ff)</a>
+  <a href="https://www.docker.com">![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=37b6ff)</a>
+  <a href="https://kubernetes.io">![K8s](https://img.shields.io/badge/K8s-0D1117?style=for-the-badge&logo=Kubernetes&logoColor=37b6ff)</a>
+  <a href="https://www.figma.com">![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=37b6ff)</a></a>
+  <a href="https://www.gimp.org">![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=37b6ff)</a>
+  <a href="https://aws.amazon.com">![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-0D1117?style=for-the-badge&logo=AmazonAWS&logoColor=37b6ff)</a>
+  <a href="https://cloud.google.com">![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=GoogleCloud&logoColor=37b6ff)</a>
 </h2>
 
 </div>
