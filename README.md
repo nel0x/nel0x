@@ -6,7 +6,7 @@
 
 <h2>Tools and Languages<br/><br/>
 
-  ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)
+  ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)
   ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37b6ff)
   ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=37b6ff) 
   ![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=37b6ff)
