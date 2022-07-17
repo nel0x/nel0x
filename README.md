@@ -2,9 +2,7 @@
 <h1> Hi, I'm <a href="https://github.com/nel0x">nel0x</a> 👋 </h1>
 <h2>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=d8dee9&center=true&lines=HTTP%2F1.1+418+I'm+a+teapot)](https://datatracker.ietf.org/doc/html/rfc2324#section-2.3.2)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nel0x&count_private=true&show_icons=true&theme=react)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BFC5D0&center=true&lines=HTTP%2F1.1+418+I'm+a+teapot)](https://datatracker.ietf.org/doc/html/rfc2324#section-2.3.2)
 
 <h2>Tools and Languages<br/><br/>
 
