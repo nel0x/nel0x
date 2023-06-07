@@ -6,7 +6,7 @@
 
 <h2>Tools and Languages<br/><br/>
 
-  <a href="https://go.dev">![Golang]https://img.shields.io/badge/go-0D1117?style=for-the-badge&logo=go&logoColor=37b6ff)</a>
+  <a href="https://go.dev">![Golang](https://img.shields.io/badge/go-0D1117?style=for-the-badge&logo=go&logoColor=37b6ff)</a>
   <a href="https://www.cplusplus.org">![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)</a>
   <a href="https://www.python.org">![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37b6ff)</a>
   <a href="https://www.javascript.com">![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=37b6ff)</a> 
