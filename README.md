@@ -9,7 +9,7 @@
   <a href="https://go.dev">![Golang](https://img.shields.io/badge/go-0D1117?style=for-the-badge&logo=go&logoColor=37b6ff)</a>
   <a href="https://www.cplusplus.org">![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)</a>
   <a href="https://www.python.org">![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37b6ff)</a>
-  <a href="https://www.javascript.com">![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=37b6ff)</a> 
+  <a href="https://www.java.com">![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=37b6ff)</a> 
   <a href="https://www.markdownguide.org">![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=37b6ff)</a>
   <a href="https://html5.org">![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=37b6ff)</a>
   <a href="https://www.w3.org/Style/CSS/Overview">![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=37b6ff)</a>
