@@ -4,7 +4,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B2B8C3&center=true&lines=HTTP%2F1.1+418+I'm+a+teapot)](https://datatracker.ietf.org/doc/html/rfc2324#section-2.3.2)
 
-<h2>Tools and Languages<br/><br/>
+<h2>Tools I use & like<br/><br/>
 
   <a href="https://go.dev">![Golang](https://img.shields.io/badge/go-0D1117?style=for-the-badge&logo=go&logoColor=37b6ff)</a>
   <a href="https://www.cplusplus.org">![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=37b6ff)</a>
@@ -19,7 +19,6 @@
   <a href="https://kubernetes.io">![K8s](https://img.shields.io/badge/K8s-0D1117?style=for-the-badge&logo=Kubernetes&logoColor=37b6ff)</a>
   <a href="https://www.figma.com">![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=37b6ff)</a></a>
   <a href="https://www.gimp.org">![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=37b6ff)</a>
-  <a href="https://aws.amazon.com">![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-0D1117?style=for-the-badge&logo=AmazonAWS&logoColor=37b6ff)</a>
   <a href="https://cloud.google.com">![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=GoogleCloud&logoColor=37b6ff)</a>
 </h2>
 
