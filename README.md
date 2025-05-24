@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hi, I'm <a href="https://github.com/nel0x">nel0x</a> 👋 </h1>
-<h2>
+
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B2B8C3&center=true&lines=HTTP%2F1.1+418+I'm+a+teapot)](https://datatracker.ietf.org/doc/html/rfc2324#section-2.3.2)
 
